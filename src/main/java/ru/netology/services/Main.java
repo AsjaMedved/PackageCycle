@@ -19,4 +19,4 @@ public class Main {
 
         System.out.println("фрилансер отдыхает " + monthRest + " месяца в году");
     }
-    }
+}
